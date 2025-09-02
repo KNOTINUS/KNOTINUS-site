@@ -7,7 +7,7 @@
 <link rel="canonical" href="https://knotinus.example" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="Knotinus — L’upcycling pop & unique">
+<meta property="og:title" content="KNOTINUS — L’upcycling pop & unique">
 <meta property="og:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
@@ -15,7 +15,7 @@
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Knotinus — L’upcycling pop & unique">
+<meta name="twitter:title" content="KNOTINUS — L’upcycling pop & unique">
 <meta name="twitter:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
 <meta name="twitter:image" content="https://knotinus.example/og-image.jpg">
 
@@ -102,14 +102,14 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <section class="hero">
 <div class="container hero-inner">
 <div>
-<h1 class="title">Knotinus — L’Upcycling <span style="color:var(--primary)">Pop & Unique</span></h1>
+<h1 class="title">KNOTINUS — L’Upcycling <span style="color:var(--primary)">Pop & Unique</span></h1>
 <p class="subtitle">Chemises et accessoires réalisés à partir de housses de couette vintage aux motifs BD. Ateliers de réparation & création pour donner une seconde vie à tes vêtements.</p>
 <div class="cta">
 <a class="btn-primary" href="#collection">Découvrir la collection</a>
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
 </div>
-<img src="images/knotinus.jpg" alt="Création Knotinus en housse BD vintage">
+<img src="images/KNOTINUS.jpg" alt="Création Knotinus en housse BD vintage">
 </div>
 </section>
 
@@ -167,7 +167,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>À propos</h2>
 <p>Je chine des tissus à histoires et je les transforme en pièces actuelles. Chaque création Knotinus est pensée pour durer et pour te donner le sourire.</p>
 </div>
-<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="La créatrice de Knotinus">
+<img src="images/KNOTINUS.jpg" alt="La créatrice de Knotinus">
 </div>
 </section>
 
@@ -186,7 +186,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 
 <footer>
 <div class="container">
-<div class="brand"><div class="logo"></div><span>Knotinus</span></div>
+<div class="brand"><div class="logo"></div><span>KNOTINUS</span></div>
 <p>Upcycling pop de textiles vintage • Pièces uniques • Ateliers à Lyon</p>
 <div class="socials">
 <a href="https://instagram.com/knotinus">Instagram</a>
