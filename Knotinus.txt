@@ -5,8 +5,7 @@
 <title>Knotinus — L’upcycling pop & unique</title>
 <meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.">
 <link rel="canonical" href="https://knotinus.example" />
-<!-- Logo / Favicon -->
-<link rel="icon" type=image/KNOTINUS.jpg" href />
+<!-- Logo / Favicon --><link rel="icon" type=image/KNOTINUS.jpg" href />
 
 <!-- Open Graph -->
 <meta property="og:title" content="Knotinus — L’upcycling pop & unique">
