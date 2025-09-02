@@ -1,4 +1,4 @@
-<img src="images/KNOTINUS.jpg">
+<img src="images/KNOTINUS.jpg" alt="Pr.KNOTINUS">
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
@@ -85,6 +85,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 </style>
 </head>
 <body>
+  <h1><img src="images/KNOTINUS.jpg" alt="Pr.KNOTINUS"></h1>
 
 <header>
 <div class="container nav">
