@@ -120,7 +120,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/chemise-01.jpg" alt="Chemise BD #01">
+<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="Chemise BD #01">
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
