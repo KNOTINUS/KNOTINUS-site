@@ -1,19 +1,18 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>KNOTINUS — L’Upcycling Pop & Unique</title>
+<title>Knotinus — L’upcycling pop & unique</title>
 <meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.">
-<link rel="canonical" href="https://knotinus.example" 
-  ![knitpro](https://github.com/user-attachments/assets/f5ce826c-2ef6-454c-b86d-a015fb2dbe7a)/>
+<link rel="canonical" href="https://knotinus.example" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="KNOTINUS — L’Upcycling Pop & Unique">
+<meta property="og:title" content="Knotinus — L’upcycling pop & unique">
 <meta property="og:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
-<meta property="og:image" content="https://knotinus.example/KNOTINUS.jpg">
-
+<meta property="og:image" content="https://knotinus.example/og-image.jpg">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
@@ -37,7 +36,7 @@
 *{box-sizing:border-box}
 body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
 a{color:inherit;text-decoration:none}
-img{max-width:50%;display:block}
+img{max-width:100%;display:block}
 .container{max-width:var(--max);margin:0 auto;padding:0 20px}
 
 /* Header */
@@ -48,7 +47,7 @@ header{position:sticky;top:0;background:rgba(255,253,250,.85);backdrop-filter:bl
 .nav a.btn{padding:8px 14px;border:1.5px solid #000;border-radius:999px;font-weight:700;margin-left:8px;background:#fff}
 
 /* Hero */
-.hero{background:linear-gradient(180deg,#fffdfa 0%, #fff4e0 100%);padding:60px 0}
+.hero{background:linear-gradient(180deg,#fffdfa 0%, #fff4e0 120%);padding:60px 0}
 .hero-inner{display:grid;grid-template-columns:1.2fr .8fr;gap:30px;align-items:center}
 .title{font-size:clamp(36px,6vw,60px);font-weight:900;margin:0}
 .subtitle{color:var(--muted);margin:14px 0;max-width:55ch}
@@ -89,7 +88,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 
 <header>
 <div class="container nav">
-<div class="brand"><div class="logo"></div><span>KNOTINUS</span></div>
+<div class="brand"><div class="logo"></div><span>Knotinus</span></div>
 <nav>
 <a href="#collection" class="btn">Collection</a>
 <a href="#ateliers" class="btn">Ateliers</a>
@@ -104,14 +103,14 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <section class="hero">
 <div class="container hero-inner">
 <div>
-<h1 class="title">KNOTINUS — L’Upcycling <span style="color:var(--primary)">Pop & Unique</span></h1>
+<h1 class="title">Knotinus — L’upcycling <span style="color:var(--primary)">pop & unique</span></h1>
 <p class="subtitle">Chemises et accessoires réalisés à partir de housses de couette vintage aux motifs BD. Ateliers de réparation & création pour donner une seconde vie à tes vêtements.</p>
 <div class="cta">
 <a class="btn-primary" href="#collection">Découvrir la collection</a>
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
 </div>
-<img src="images/knitpro.jpg" ![knitpro](https://github.com/user-attachments/assets/417e117e-00e4-4b60-8b82-104f0e5afbad) alt="Création Knotinus en housse BD vintage">
+<img src="images/chemise-hero.jpg" alt="Création Knotinus en housse BD vintage">
 </div>
 </section>
 
@@ -121,14 +120,14 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/knitpro.jpg" alt="Chemise BD #01"> 
+<img src="images/chemise-01.jpg" alt="Chemise BD #01">
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
 </div>
 </article>
 <article class="card">
-<img src="images/KNOTINUS.jpg" alt="Banane BD">
+<img src="images/banane-01.jpg" alt="Banane BD">
 <div class="info">
 <h3>Banane BD</h3>
 <p class="price">39 €</p>
@@ -169,7 +168,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>À propos</h2>
 <p>Je chine des tissus à histoires et je les transforme en pièces actuelles. Chaque création Knotinus est pensée pour durer et pour te donner le sourire.</p>
 </div>
-<img src="images/KNOTINUS.jpg" alt="La créatrice de Knotinus">
+<img src="images/portrait.jpg" alt="La créatrice de Knotinus">
 </div>
 </section>
 
@@ -198,6 +197,5 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 </div>
 </footer>
 
-
-<body>
-
+</body>
+</html>
