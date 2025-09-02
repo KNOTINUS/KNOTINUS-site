@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Knotinus — L’upcycling pop & unique</title>
+<title>KNOTINUS — L’Upcycling Pop & Unique</title>
 <meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.">
 <link rel="canonical" href="https://knotinus.example" />
 
