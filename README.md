@@ -110,7 +110,8 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <a class="btn-primary" href="#collection">Découvrir la collection</a>
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
-</div> <img src="images/KNOTINUS.jpg" alt="Création Knotinus en housse BD vintage">
+</div> ![KNOTINUS](https://github.com/user-attachments/assets/1819d822-f9aa-4364-8edf-6d326dc921f7)
+<img src="images/KNOTINUS.jpg" alt="Création Knotinus en housse BD vintage">
 </div>
   
 </section>
