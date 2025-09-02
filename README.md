@@ -1,3 +1,5 @@
+![KNOTINUS](https://github.com/user-attachments/assets/4a32ec86-d05a-4995-b4c8-ed247e476d6e)
+
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
@@ -110,7 +112,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
 </div>
-<img src="images/KNOTINUS.jpg" alt="Création Knotinus en housse BD vintage">
+<img src="images/KNOTINUS.jpg" ![knitpro](https://github.com/user-attachments/assets/417e117e-00e4-4b60-8b82-104f0e5afbad) alt="Création Knotinus en housse BD vintage">
 </div>
 </section>
 
