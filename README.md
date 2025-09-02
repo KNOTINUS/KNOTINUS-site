@@ -120,7 +120,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/knitpro.jpg" alt="Chemise BD #01"> ![knitpro](https://github.com/user-attachments/assets/5d28f516-34bc-4f52-bc95-3e0be96e8469)
+<img src="images/knitpro.jpg" alt="Chemise BD #01"> 
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
