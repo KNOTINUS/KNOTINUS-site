@@ -11,7 +11,7 @@
 <meta property="og:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
-<meta property="og:image" content="https://knotinus.example/og-image.jpg">
+<meta property="og:image" content="https://knotinus.example/KNOTINUS.jpg">
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
