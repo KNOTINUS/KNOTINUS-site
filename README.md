@@ -1,5 +1,5 @@
 ![KNOTINUS](https://github.com/user-attachments/assets/78a79197-511e-4f2f-805e-1fe7ed18bfec)
-<img src="images/KNOTINUS.jpg" alt="KNOTINUS.jpg">
+
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
@@ -86,7 +86,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 </style>
 </head>
 <body>
-  <h1><img src="images/KNOTINUS.jpg" alt="Pr.KNOTINUS">![KNOTINUS.jpg]</h1>
+  <h1> ![KNOTINUS](https://github.com/user-attachments/assets/78a79197-511e-4f2f-805e-1fe7ed18bfec) </h1>
 
 <header>
 <div class="container nav">
