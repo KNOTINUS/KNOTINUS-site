@@ -2,13 +2,13 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Knotinus — L’Upcycling Pop & Unique</title>
+<title>KNOTINUS — L’Upcycling Pop & Unique</title>
 <meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.">
 <link rel="canonical" href="https://knotinus.example" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="Knotinus — L’Upcycling Pop & Unique">
-<meta property="og:description" content="Chemises & Accessoires Upcyclés + Ateliers de Réparation et Création.">
+<meta property="og:title" content="Knotinus — L’upcycling pop & unique">
+<meta property="og:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
 <meta property="og:image" content="https://knotinus.example/og-image.jpg">
@@ -102,14 +102,14 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <section class="hero">
 <div class="container hero-inner">
 <div>
-<h1 class="title">Knotinus — L’upcycling <span style="color:var(--primary)">pop & unique</span></h1>
+<h1 class="title">Knotinus — L’Upcycling <span style="color:var(--primary)">Pop & Unique</span></h1>
 <p class="subtitle">Chemises et accessoires réalisés à partir de housses de couette vintage aux motifs BD. Ateliers de réparation & création pour donner une seconde vie à tes vêtements.</p>
 <div class="cta">
 <a class="btn-primary" href="#collection">Découvrir la collection</a>
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
 </div>
-<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="Création Knotinus en housse BD vintage">
+<img src="images/knotinus.jpg" alt="Création Knotinus en housse BD vintage">
 </div>
 </section>
 
@@ -119,7 +119,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/chemise-01.jpg" alt="Chemise BD #01">
+<img src="images/knotinus.jpg" alt="Chemise BD #01">
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
@@ -167,7 +167,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>À propos</h2>
 <p>Je chine des tissus à histoires et je les transforme en pièces actuelles. Chaque création Knotinus est pensée pour durer et pour te donner le sourire.</p>
 </div>
-<img src="images/portrait.jpg" alt="La créatrice de Knotinus">
+<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="La créatrice de Knotinus">
 </div>
 </section>
 
@@ -198,3 +198,30 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 
 </body>
 </html>
+/* Grid collection */
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}
+.card{background:#fff;border:1.5px solid #000;border-radius:14px;overflow:hidden;box-shadow:var(--shadow)}
+.card .info{padding:12px}
+.price{font-weight:900}
+
+/* Workshop */
+.workshop{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.panel{background:#fff;border:2px solid #000;border-radius:14px;padding:20px}
+
+/* About */
+.about{display:grid;grid-template-columns:1fr 1fr;gap:20px;align-items:center}
+
+/* Footer */
+footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
+.socials{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
+.socials a{background:#fff;color:#000;padding:8px 12px;border-radius:999px;font-weight:800}
+
+/* Responsive */
+@media (max-width:900px){
+.hero-inner{grid-template-columns:1fr}
+.workshop,.about{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+
