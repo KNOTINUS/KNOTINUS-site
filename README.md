@@ -110,9 +110,9 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <a class="btn-primary" href="#collection">Découvrir la collection</a>
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
+</div> <img src="images/KNOTINUS.jpg" alt="Création Knotinus en housse BD vintage">
 </div>
-<img src="images/KNOTINUS.jpg" alt="Création Knotinus en housse BD vintage">
-</div>
+  
 </section>
 
 <!-- COLLECTION -->
