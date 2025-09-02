@@ -1,3 +1,4 @@
+![KNOTINUS](https://github.com/user-attachments/assets/5903508d-0f4c-4aa5-9a66-6f7e90d366a5)
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
@@ -119,14 +120,14 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/knotinus.jpg" alt="Chemise BD #01">
+<img src="images/KNOTINUS.jpg" alt="Chemise BD #01">
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
 </div>
 </article>
 <article class="card">
-<img src="images/banane-01.jpg" alt="Banane BD">
+<img src="images/KNOTINUS.jpg" alt="Banane BD">
 <div class="info">
 <h3>Banane BD</h3>
 <p class="price">39 €</p>
