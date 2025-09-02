@@ -1,11 +1,11 @@
-![knitpro](https://github.com/user-attachments/assets/f5ce826c-2ef6-454c-b86d-a015fb2dbe7a)
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>KNOTINUS — L’Upcycling Pop & Unique</title>
 <meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.">
-<link rel="canonical" href="https://knotinus.example" />
+<link rel="canonical" href="https://knotinus.example" 
+  ![knitpro](https://github.com/user-attachments/assets/f5ce826c-2ef6-454c-b86d-a015fb2dbe7a)/>
 
 <!-- Open Graph -->
 <meta property="og:title" content="KNOTINUS — L’Upcycling Pop & Unique">
