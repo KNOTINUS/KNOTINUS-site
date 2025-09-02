@@ -12,7 +12,6 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
 <meta property="og:image" content="https://knotinus.example/KNOTINUS.jpg">
-![KNOTINUS](https://github.com/user-attachments/assets/185f648b-afad-40bf-82f7-4bf8ca95a20f)
 
 
 <!-- Twitter -->
