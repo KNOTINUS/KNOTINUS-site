@@ -85,8 +85,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 </style>
 </head>
 <body>
-  <h1><img src="images/KNOTINUS.jpg" alt="Pr.KNOTINUS">![KNOTINUS](https://github.com/user-attachments/assets/36d99196-03f4-4709-a725-c2b4b31ce9c7)
-</h1>
+  <h1><img src="images/KNOTINUS.jpg" alt="Pr.KNOTINUS">![KNOTINUS.jpg]</h1>
 
 <header>
 <div class="container nav">
