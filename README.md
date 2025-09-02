@@ -1,5 +1,3 @@
-![KNOTINUS](https://github.com/user-attachments/assets/cdb600ea-4a7a-4682-9ff9-628c8b53c8e5)
-![KNOTINUS](https://github.com/user-attachments/assets/5903508d-0f4c-4aa5-9a66-6f7e90d366a5)
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
@@ -13,7 +11,8 @@
 <meta property="og:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
-<meta property="og:image" content="https://knotinus.example/og-image.jpg">
+<meta property="og:image" content="https://knotinus.example/KNOTINUS.jpg">
+![KNOTINUS](https://github.com/user-attachments/assets/cdb600ea-4a7a-4682-9ff9-628c8b53c8e5)
 
 <!-- Twitter -->
 <meta name="twitter:card" content="summary_large_image">
