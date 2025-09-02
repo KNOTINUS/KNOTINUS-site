@@ -2,13 +2,13 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Knotinus — L’upcycling pop & unique</title>
+<title>Knotinus — L’Upcycling Pop & Unique</title>
 <meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.">
 <link rel="canonical" href="https://knotinus.example" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="Knotinus — L’upcycling pop & unique">
-<meta property="og:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
+<meta property="og:title" content="Knotinus — L’Upcycling Pop & Unique">
+<meta property="og:description" content="Chemises & Accessoires Upcyclés + Ateliers de Réparation et Création.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
 <meta property="og:image" content="https://knotinus.example/og-image.jpg">
@@ -109,7 +109,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
 </div>
-<img src="images/chemise-hero.jpg" alt="Création Knotinus en housse BD vintage">
+<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="Création Knotinus en housse BD vintage">
 </div>
 </section>
 
