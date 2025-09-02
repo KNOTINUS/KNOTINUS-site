@@ -168,7 +168,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>À propos</h2>
 <p>Je chine des tissus à histoires et je les transforme en pièces actuelles. Chaque création Knotinus est pensée pour durer et pour te donner le sourire.</p>
 </div>
-<img src="images/portrait.jpg" alt="La créatrice de Knotinus">
+<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="La créatrice de Knotinus">
 </div>
 </section>
 
