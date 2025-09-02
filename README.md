@@ -8,7 +8,7 @@
 <link rel="canonical" href="https://knotinus.example" />
 
 <!-- Open Graph -->
-<meta property="og:title" content="Knotinus — L’upcycling pop & unique">
+<meta property="og:title" content="KNOTINUS — L’Upcycling Pop & Unique">
 <meta property="og:description" content="Chemises & accessoires upcyclés + ateliers de réparation et création.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://knotinus.example">
@@ -36,7 +36,7 @@
 *{box-sizing:border-box}
 body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.5}
 a{color:inherit;text-decoration:none}
-img{max-width:100%;display:block}
+img{max-width:50%;display:block}
 .container{max-width:var(--max);margin:0 auto;padding:0 20px}
 
 /* Header */
@@ -47,7 +47,7 @@ header{position:sticky;top:0;background:rgba(255,253,250,.85);backdrop-filter:bl
 .nav a.btn{padding:8px 14px;border:1.5px solid #000;border-radius:999px;font-weight:700;margin-left:8px;background:#fff}
 
 /* Hero */
-.hero{background:linear-gradient(180deg,#fffdfa 0%, #fff4e0 120%);padding:60px 0}
+.hero{background:linear-gradient(180deg,#fffdfa 0%, #fff4e0 100%);padding:60px 0}
 .hero-inner{display:grid;grid-template-columns:1.2fr .8fr;gap:30px;align-items:center}
 .title{font-size:clamp(36px,6vw,60px);font-weight:900;margin:0}
 .subtitle{color:var(--muted);margin:14px 0;max-width:55ch}
@@ -103,14 +103,14 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <section class="hero">
 <div class="container hero-inner">
 <div>
-<h1 class="title">Knotinus — L’Upcycling <span style="color:var(--primary)">Pop & Unique</span></h1>
+<h1 class="title">KNOTINUS — L’Upcycling <span style="color:var(--primary)">Pop & Unique</span></h1>
 <p class="subtitle">Chemises et accessoires réalisés à partir de housses de couette vintage aux motifs BD. Ateliers de réparation & création pour donner une seconde vie à tes vêtements.</p>
 <div class="cta">
 <a class="btn-primary" href="#collection">Découvrir la collection</a>
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
 </div>
-<img src="images/knotinus.jpg" alt="Création Knotinus en housse BD vintage">
+<img src="images/KNOTINUS.jpg" alt="Création Knotinus en housse BD vintage">
 </div>
 </section>
 
@@ -168,7 +168,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>À propos</h2>
 <p>Je chine des tissus à histoires et je les transforme en pièces actuelles. Chaque création Knotinus est pensée pour durer et pour te donner le sourire.</p>
 </div>
-<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="La créatrice de Knotinus">
+<img src="images/KNOTINUS.jpg" alt="La créatrice de Knotinus">
 </div>
 </section>
 
