@@ -1,4 +1,4 @@
-<img src="images/KNOTINUS.jpg"
+<img src="images/KNOTINUS.jpg">
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
