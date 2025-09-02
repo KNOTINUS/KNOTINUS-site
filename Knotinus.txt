@@ -1,4 +1,3 @@
-
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
@@ -103,14 +102,14 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <section class="hero">
 <div class="container hero-inner">
 <div>
-<h1 class="title">Knotinus — L’upcycling <span style="color:var(--primary)">pop & unique</span></h1>
+<h1 class="title">Knotinus — L’Upcycling <span style="color:var(--primary)">Pop & Unique</span></h1>
 <p class="subtitle">Chemises et accessoires réalisés à partir de housses de couette vintage aux motifs BD. Ateliers de réparation & création pour donner une seconde vie à tes vêtements.</p>
 <div class="cta">
 <a class="btn-primary" href="#collection">Découvrir la collection</a>
 <a class="btn-ghost" href="#ateliers">Réserver un atelier</a>
 </div>
 </div>
-<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="Création Knotinus en housse BD vintage">
+<img src="images/knotinus.jpg" alt="Création Knotinus en housse BD vintage">
 </div>
 </section>
 
@@ -120,7 +119,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/9A9B647A-A8C9-4EBE-ACC5-E888A7049A8F.png" alt="Chemise BD #01">
+<img src="images/knotinus.jpg" alt="Chemise BD #01">
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
