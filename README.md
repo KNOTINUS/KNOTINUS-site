@@ -196,32 +196,6 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 </div>
 </footer>
 
-</body>
-</html>
-/* Grid collection */
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}
-.card{background:#fff;border:1.5px solid #000;border-radius:14px;overflow:hidden;box-shadow:var(--shadow)}
-.card .info{padding:12px}
-.price{font-weight:900}
 
-/* Workshop */
-.workshop{display:grid;grid-template-columns:1fr 1fr;gap:20px}
-.panel{background:#fff;border:2px solid #000;border-radius:14px;padding:20px}
-
-/* About */
-.about{display:grid;grid-template-columns:1fr 1fr;gap:20px;align-items:center}
-
-/* Footer */
-footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
-.socials{display:flex;gap:10px;flex-wrap:wrap;margin-top:10px}
-.socials a{background:#fff;color:#000;padding:8px 12px;border-radius:999px;font-weight:800}
-
-/* Responsive */
-@media (max-width:900px){
-.hero-inner{grid-template-columns:1fr}
-.workshop,.about{grid-template-columns:1fr}
-}
-</style>
-</head>
 <body>
 
