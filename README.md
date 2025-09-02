@@ -1,5 +1,3 @@
-![KNOTINUS](https://github.com/user-attachments/assets/4a32ec86-d05a-4995-b4c8-ed247e476d6e)
-
 <html lang="fr">
 <head>
 <meta charset="utf-8" />
