@@ -3,7 +3,7 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>KNOTINUS — L’Upcycling Pop & Unique</title>
-<meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.![knitpro](https://github.com/user-attachments/assets/f5ce826c-2ef6-454c-b86d-a015fb2dbe7a)">
+<meta name="description" content="Knotinus transforme des housses de couette vintage en chemises et accessoires uniques. Ateliers de réparation & upcycling.">
 <link rel="canonical" href="https://knotinus.example" />
 
 <!-- Open Graph -->
@@ -119,7 +119,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/knitpro.jpg" alt="Chemise BD #01">
+<img src="images/knitpro.jpg" alt="Chemise BD #01"![knitpro](https://github.com/user-attachments/assets/f5ce826c-2ef6-454c-b86d-a015fb2dbe7a)>
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
