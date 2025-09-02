@@ -88,7 +88,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 
 <header>
 <div class="container nav">
-<div class="brand"><div class="logo"></div><span>Knotinus</span></div>
+<div class="brand"><div class="logo"></div><span>KNOTINUS</span></div>
 <nav>
 <a href="#collection" class="btn">Collection</a>
 <a href="#ateliers" class="btn">Ateliers</a>
@@ -120,7 +120,7 @@ footer{background:#111;color:#eee;padding:40px 20px;margin-top:40px}
 <h2>Collection</h2>
 <div class="grid">
 <article class="card">
-<img src="images/KNOTINUS.jpg" alt="Chemise BD #01">
+<img src="images/knitpro.jpg" alt="Chemise BD #01">
 <div class="info">
 <h3>Chemise BD #01</h3>
 <p class="price">89 €</p>
